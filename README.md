@@ -1,5 +1,7 @@
 # Pulsar
 
+
+ **Technical Design Report:** [https://zenodo.org/records/20686500}
 > A modular avionics and telemetry platform for mission management, sensor integration, real-time monitoring, and embedded systems development.
 
 ## Overview
